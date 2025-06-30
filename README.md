@@ -14,7 +14,7 @@ The dataset zip includes three folders.
 
 Download the full dataset as a single zip file here:
 
-[ovarian_ultrasound_dataset.zip](./ovarian_ultrasound_dataset.zip)
+[ovarian_ultrasound_dataset.zip](./ovarian_ultrasound_dataset.rar)
 
 ## Citation
 
