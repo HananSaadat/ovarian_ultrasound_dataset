@@ -16,6 +16,9 @@ Download the full dataset as a single zip file here:
 
 [ovarian_ultrasound_dataset.zip](./ovarian_ultrasound_dataset.rar)
 
+**Note:** GitHub does not preview zip files. Click the link above, then click **Download** to save the dataset.
+
+
 ## Citation
 
 If you use this dataset in your work, please cite:
